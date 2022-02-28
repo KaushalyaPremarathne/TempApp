@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTempApplication</string>
+    <string name="editText">Enter Temperature</string>
+    <string name="rCels">Celcius</string>
+    <string name="rFaranhite">Fahrenhite</string>
+    <string name="btnCalc">Calculate</string>
+</resources>
